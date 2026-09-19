@@ -10,12 +10,15 @@ To analyze e-commerce transaction data and identify key factors affecting sales 
 
 ## Objectives
 
-* Analyze overall sales and profit performance.
-* Identify the most and least profitable products and categories.
-* Evaluate regional and customer-segment performance.
-* Track sales and profit trends over time.
-* Calculate and monitor key business KPIs.
-* Build an interactive dashboard for data-driven decision-making.
+* Analyze overall sales and order performance.
+* Track monthly/weekly sales trends.
+*Identify top-performing product categories.
+* Analyze seller and regional performance.
+* Monitor payment methods and customer behavior.
+* Analyze delivery performance.
+* Measure customer satisfaction through review scores.
+* Create management-level KPIs and an interactive Power BI dashboard.
+* Generate business insights and recommendations.
 
 ## Key KPIs
 
